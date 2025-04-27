@@ -1,2 +1,5 @@
-class B{
+class User{
+
+  String str = "hi";
+  
 }
